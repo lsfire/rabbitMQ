@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/liushao/thirdJars/rabbitmq-java-client-bin-3.5.6/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/liushao/thirdJars/rabbitmq-java-client-bin-3.5.6/commons-io-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/liushao/thirdJars/rabbitmq-java-client-bin-3.5.6/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="/Users/liushao/thirdJars/rabbitmq-java-client-bin-3.5.6/junit.jar"/>
+	<classpathentry kind="lib" path="/Users/liushao/thirdJars/rabbitmq-java-client-bin-3.5.6/rabbitmq-client-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/liushao/thirdJars/rabbitmq-java-client-bin-3.5.6/rabbitmq-client.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
