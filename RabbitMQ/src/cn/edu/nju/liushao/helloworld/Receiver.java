@@ -32,6 +32,7 @@ public class Receiver {
 //		Since it will push us messages asynchronously, we provide a callback in the form of an object that 
 //		will buffer the messages until we're ready to use them. That is what a DefaultConsumer subclass does.
 		Consumer consumer = new DefaultConsumer(channel){
+			
 			@Override
 			public void handleDelivery(String consumerTag, Envelope envelope, BasicProperties properties, byte[] body)
 					throws IOException {
